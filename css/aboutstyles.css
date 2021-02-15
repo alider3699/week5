@@ -1,0 +1,115 @@
+  
+h1 {
+    color: black;
+    font-family: 'Belgrano';font-size: 50px;
+    text-align: left;
+    
+}
+
+body{
+    
+    background-color: linen;
+    font-size: 19px;
+    text-align: center;
+
+
+    
+}
+
+a {text-decoration: none; }
+
+
+/* unvisited link */
+a:link {
+  color: rosybrown;
+}
+
+/* visited link */
+a:visited {
+  color: rosybrown;
+}
+
+/* mouse over link */
+a:hover {
+  color: snow;
+}
+
+/* selected link */
+a:active {
+  color: snow;
+}
+
+p{
+    font-family: 'Belgrano', Georgia, serif;
+    color: black;
+    text-align: left;
+    float:none;
+   
+}
+
+
+.container{
+    display: flex;
+    margin-bottom: 200px;
+    justify-content: center;
+    flex-direction: row;
+   
+}
+
+.content{
+   justify-content: flex-start;
+    align-items: flex-end;
+    width: 400px;
+    padding-left: 50px;
+    
+}
+
+.image{
+    left:0;
+    
+}
+
+
+
+
+
+ul{
+
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 100px;
+    
+    
+
+}
+
+li{
+    font-family: 'Belgrano', Georgia, serif;
+    color: black;
+    padding: 30px;
+    display: inline;
+    margin-right: 10px;
+    font-size: 50px;
+    font-family: 'Sacramento', cursive;
+}
+
+
+
+
+table{
+    border: 1px;
+}
+
+hr{ 
+    border-top:1px solid #000;
+    width: 80%;
+
+}
+
+p1{
+    color: black;
+    font-family: 'Belgrano';
+    text-align: center;
+}
+
+/*sadkjf sdf*/
